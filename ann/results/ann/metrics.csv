@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score
+ANN (MLPClassifier),0.9325,0.9333642924866004,0.9324999999999999,0.9320235607940597
