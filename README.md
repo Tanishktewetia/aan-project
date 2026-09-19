@@ -1,4 +1,3 @@
-﻿# ann-project
 # Mobile Price Prediction
 
 <div align="center">
